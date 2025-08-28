@@ -55,7 +55,3 @@ Feel free to star ⭐ the repo, follow along, or share thoughts. Especially if y
 
 - 💼 [LinkedIn](https://linkedin.com/in/justinreginaldtan)  
 - 💌 Feel free to open an issue or reach out — always open to learning together.
-
----
-
-Thanks for checking out `dailyCTF`. Let’s keep learning — one challenge, one day at a time.
