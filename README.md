@@ -1,16 +1,16 @@
-# 🧠 dailyCTF — My Journey to Red Teaming
+# dailyCTF — My Journey to Red Teaming
 
 Hi, I’m **Justin Reginald Tan** — a senior CIS student passionate about red teaming and web application security.  
 
 `dailyCTF` started in **May 2025** as a personal challenge: solve **one CTF or lab every day for a month** and document the journey. What began as a consistency experiment has grown into a full collection of **31 write-ups**, covering everything from beginner web exploits to multi-stage privilege escalation chains.  
 
-This repo is both a technical logbook and a personal archive of growth — a place to show my process, share mistakes, and highlight lessons learned.  
+This repo is both a technical logbook and a personal archive of growth, a place to show my process, share mistakes, and highlight lessons learned.  
 
 ---
 
-## 🔍 Why I’m Doing This
+## Why I’m Doing This
 
-CTFs and hands-on labs aren’t just puzzles — they are **reps for real-world offensive security**. Through this series I practiced:  
+CTFs and hands-on labs aren’t just puzzles, but they are **reps for real-world offensive security**. Through this series I practiced:  
 
 - Web exploitation (XSS, SQLi, file upload, XXE, SSTI, command injection)  
 - Network services enumeration (SMTP, SNMP, IMAP/POP3, NFS, DNS)  
@@ -22,20 +22,20 @@ I also wanted to prepare for certifications like **OSCP / CPTS** while building 
 
 ---
 
-## 🧩 What You’ll Find Here
+## What You’ll Find Here
 
 Each daily folder (Day01 → Day31) contains a **Markdown write-up** with:  
 
-- ✅ Challenge overview and scenario  
-- 🔍 Reconnaissance and methodology  
-- 💥 Exploitation steps (commands, payloads, screenshots where needed)  
-- 🧠 Lessons learned and key takeaways  
+- Challenge overview and scenario  
+- Reconnaissance and methodology  
+- Exploitation steps (commands, payloads, screenshots where needed)  
+- Lessons learned and key takeaways  
 
-Not every day was a strict CTF — some entries are **HackTheBox Academy skill assessments** or training modules that matched the same learning goals.  
+Not every day was a strict CTF. Some entries are **HackTheBox Academy skill assessments** or training modules that matched the same learning goals.  
 
 ---
 
-## 📅 Completed Challenges (May 2025)
+## Completed Challenges (May 2025)
 
 ```plaintext
 Day01  Footprinting Hard         → DNS, SNMP, IMAP/POP3 chain  
@@ -73,10 +73,10 @@ Day31  Linux Local Priv Esc      → User → Barry → Tomcat → Root chain
 
 ---
 
-## 👋 Connect With Me
+## Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/justinreginaldtan)  
-- 💌 Feel free to open an issue or reach out — always open to learning together.  
+- [LinkedIn](https://linkedin.com/in/justinreginaldtan)  
+- Feel free to open an issue or reach out — always open to learning together.  
 
 ---
 
